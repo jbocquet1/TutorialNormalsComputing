@@ -14,7 +14,7 @@ To import the las file, you can click in the menu "File", click on "open" and se
 
 --> ajout image 
 
-##3. Compute the normals 
+## 3. Compute the normals 
 
 Fisrt select the cloud, then go to the "Edit" menu, select "Normals" and "compute". You can see in the following picture the parameters I chose that worked best for my data. 
 
